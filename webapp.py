@@ -237,8 +237,8 @@ def mostrar_playbook():
                 st.write(contenido)
 
 # --- Navegación Principal Organizada por Roles ---
-if os.path.exists("logo.png"):
-    st.sidebar.image("logo.png", use_container_width=True)
+if os.path.exists("Logo.png"):
+    st.sidebar.image("Logo.png", use_container_width=True)
 else:
     st.sidebar.title("AUGMENTIQ AOC")
 
