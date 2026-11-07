@@ -1,0 +1,6 @@
+streamlit
+anthropic
+voyageai
+pandas
+pydantic
+python-dotenv
